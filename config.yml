@@ -341,7 +341,7 @@ punish:
   # (%nl% for new line)
   punish_commands:
     - coffeeprotect crash %player%
-    - tempban %player% 7d &c(stupid)Crash attempt
+    - tempban %player% 7d &cCrash attempt # you need plugin for "tempban" command.
 
 # Checks Settings
 checks:
